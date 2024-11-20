@@ -1,0 +1,84 @@
+﻿<Window x:Class="PotentialMethod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PotentialMethod"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="480" Width="1000">
+    <Grid x:Name="gridMain" Height="480" Width="1000">
+        <Grid x:Name="grid" Height="440" Width="800" ShowGridLines="True" HorizontalAlignment="Left" VerticalAlignment="Center" PreviewMouseLeftButtonDown="OnPreviewMouseLeftButtonDown">
+            <Ellipse x:Name="elGreen" Grid.Column="3" Grid.Row="2" Grid.ColumnSpan="5" Grid.RowSpan="5" Width="200" Height="200">
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="ForestGreen" Offset="0"></GradientStop>
+                        <GradientStop Color="AliceBlue" Offset="1"></GradientStop>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Ellipse x:Name="elBrown" Grid.Column="7" Grid.Row="1" Grid.ColumnSpan="6" Grid.RowSpan="6" Width="240" Height="240">
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="Brown" Offset="0"></GradientStop>
+                        <GradientStop Color="AliceBlue" Offset="1"></GradientStop>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Ellipse x:Name="elGolden" Grid.Column="6" Grid.Row="6" Grid.ColumnSpan="4" Grid.RowSpan="4" Width="160" Height="160">
+                <Ellipse.Fill>
+                    <RadialGradientBrush>
+                        <GradientStop Color="Goldenrod" Offset="0"></GradientStop>
+                        <GradientStop Color="AliceBlue" Offset="1"></GradientStop>
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+        <Grid x:Name="grid2" Height="440" Width="200" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <Button x:Name="btnCount" Content="Count/Посчитать"  HorizontalAlignment="Center" Height="50"  VerticalAlignment="Top" Width="160" Click="btnCount_Click" Margin="0,-23,0,0"/>
+            <RichTextBox x:Name="rtb" HorizontalAlignment="Center" Height="278" VerticalAlignment="Top" Width="162" Margin="0,106,0,0" VerticalScrollBarVisibility="Visible">
+                <FlowDocument>
+                    <Paragraph>
+                        <Run Text="Click on one of the cells/нажмите на одну из клеток "/>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+            <Button x:Name="btnClear" Content="Clear/Очистить"  HorizontalAlignment="Center" Height="50"  VerticalAlignment="Top" Width="160" Click="btnClear_Click" Margin="0,49,0,0"/>
+        </Grid>
+    </Grid>
+
+</Window>

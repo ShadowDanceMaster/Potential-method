@@ -1,0 +1,42 @@
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.exe
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.deps.json
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.runtimeconfig.json
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.dll
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.pdb
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod_MarkupCompile.cache
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod_MarkupCompile.lref
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.g.resources
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.AssemblyInfoInputs.cache
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.AssemblyInfo.cs
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.dll
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\refint\PotentialMethod.dll
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.pdb
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.genruntimeconfig.cache
+C:\Users\sofia\source\repos\MAI\ИИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\ref\PotentialMethod.dll
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.exe
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.deps.json
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.runtimeconfig.json
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.dll
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\bin\Debug\net6.0-windows\PotentialMethod.pdb
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.csproj.AssemblyReference.cache
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\MainWindow.g.cs
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\App.g.cs
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod_MarkupCompile.cache
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod_MarkupCompile.lref
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\MainWindow.baml
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.g.resources
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.AssemblyInfoInputs.cache
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.AssemblyInfo.cs
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.csproj.CoreCompileInputs.cache
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.dll
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\refint\PotentialMethod.dll
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.pdb
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\PotentialMethod.genruntimeconfig.cache
+c:\Users\sofia\source\repos\Флахры из МАИ\PotentialMethod\PotentialMethod\obj\Debug\net6.0-windows\ref\PotentialMethod.dll
